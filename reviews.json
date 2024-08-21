@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Adams",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Excellent professor who makes complex topics easy to understand."
+      },
+      {
+        "professor": "Dr. John Miller",
+        "subject": "Mathematics",
+        "stars": 4,
+        "review": "Great lectures, but the exams are challenging."
+      },
+      {
+        "professor": "Dr. Sarah Thompson",
+        "subject": "Physics",
+        "stars": 3,
+        "review": "Knowledgeable but not very engaging in class."
+      },
+      {
+        "professor": "Dr. Robert Brown",
+        "subject": "Chemistry",
+        "stars": 5,
+        "review": "Very approachable and helpful outside of class."
+      },
+      {
+        "professor": "Dr. Lisa Clark",
+        "subject": "Biology",
+        "stars": 4,
+        "review": "Interesting lectures, but sometimes the material is too dense."
+      },
+      {
+        "professor": "Dr. James Wilson",
+        "subject": "History",
+        "stars": 2,
+        "review": "The lectures are dull and the readings are overwhelming."
+      },
+      {
+        "professor": "Dr. Angela Davis",
+        "subject": "Literature",
+        "stars": 5,
+        "review": "Passionate about the subject and makes classes enjoyable."
+      },
+      {
+        "professor": "Dr. Michael Anderson",
+        "subject": "Economics",
+        "stars": 4,
+        "review": "Good professor, but the pace of the class is fast."
+      },
+      {
+        "professor": "Dr. Karen Martinez",
+        "subject": "Psychology",
+        "stars": 3,
+        "review": "Content is interesting, but the grading is tough."
+      },
+      {
+        "professor": "Dr. David Harris",
+        "subject": "Sociology",
+        "stars": 5,
+        "review": "Engaging and thought-provoking lectures."
+      },
+      {
+        "professor": "Dr. Linda Evans",
+        "subject": "Philosophy",
+        "stars": 4,
+        "review": "Encourages critical thinking, but can be hard to follow sometimes."
+      },
+      {
+        "professor": "Dr. Richard Lee",
+        "subject": "Political Science",
+        "stars": 3,
+        "review": "Average professor, nothing special but not bad either."
+      },
+      {
+        "professor": "Dr. Barbara Hall",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Fantastic professor with deep knowledge and passion for the subject."
+      },
+      {
+        "professor": "Dr. William Young",
+        "subject": "Music",
+        "stars": 4,
+        "review": "Talented musician, but sometimes struggles with teaching."
+      },
+      {
+        "professor": "Dr. Elizabeth King",
+        "subject": "Anthropology",
+        "stars": 2,
+        "review": "The material is dry and the lectures are hard to sit through."
+      },
+      {
+        "professor": "Dr. Charles Wright",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Very knowledgeable and cares about student success."
+      },
+      {
+        "professor": "Dr. Jessica Lewis",
+        "subject": "Business Administration",
+        "stars": 3,
+        "review": "Decent professor, but not very engaging in class."
+      },
+      {
+        "professor": "Dr. Steven Scott",
+        "subject": "Engineering",
+        "stars": 4,
+        "review": "Challenging course, but very rewarding if you put in the effort."
+      },
+      {
+        "professor": "Dr. Amanda Robinson",
+        "subject": "Law",
+        "stars": 5,
+        "review": "Inspiring and makes complex legal topics clear and understandable."
+      },
+      {
+        "professor": "Dr. Paul Nelson",
+        "subject": "Astronomy",
+        "stars": 4,
+        "review": "Fascinating subject, but the exams are tough."
+      }
+    ]
+  }
+  
